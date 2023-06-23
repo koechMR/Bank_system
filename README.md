@@ -4,4 +4,5 @@ The Bank Account Management system is a simple program written in C that allows 
 ## How to use it
 ## Kali linux/Ubuntu
  git clone https://github.com/koechMR/Bank_system.git
-        cd Bank_system
+
+cd Bank_system
