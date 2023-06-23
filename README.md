@@ -6,3 +6,4 @@ The program uses a struct BankAccount to represent a bank account, which consist
 The program utilizes functions such as createAccount, deposit, withdraw, and checkBalance to perform the corresponding operations on the bank account. It also includes a menu display function displayMenu to present the available options to the user.
 
 The code demonstrates basic concepts of C programming, including the use of structures, user input, conditional statements, loops, and function calls. Keep in mind that this is a simplified example, and additional features and error handling can be incorporated to make the system more robust and practical for real-world scenarios.
+## Golang how to install
